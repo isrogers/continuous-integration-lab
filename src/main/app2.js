@@ -8,7 +8,7 @@ app2.get('/', (req, res) => {
 })
 
 app2.listen(3001, () => {
-    console.log('Example app listening on http://localhost:3000')
+    console.log('Example app listening on http://localhost:3001')
 })
 
 module.exports = app2;
